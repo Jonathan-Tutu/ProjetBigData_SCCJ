@@ -1,7 +1,7 @@
 # Wouiz : Ton guide vers la réussite
-<div style="text-align:center;">
+<p align="center">
     <img src="./img/logo.png" alt= “LogoWouiz height=200 width=200>
-</div>
+</p>
 
 ## Rappel du sujet du projet
 
