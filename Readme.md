@@ -101,7 +101,7 @@ Chaque utilisateur a la possibilité d'accéder à ses statistiques personnelles
 
 Les utilisateurs peuvent également visualiser diverses informations générales concernant le site et les quizz réalisés par tous les utilisateurs.
 <div style="text-align:center;">
-    <img src="./img/Dashboard_dataviz.png" alt= “LogoWouiz”>
+    <img src="./img/DashboardDataviz.png" alt= “LogoWouiz”>
 </div>
 
 - Historique des quizz  
@@ -113,7 +113,7 @@ Il vous sera possible de visualisez les quizz que vous avez réalisés.
 
 Et ainsi revoir vos différentes questions et réponses.
 <div style="text-align:center;">
-    <img src="./img/Détails du quizz.png" alt= “LogoWouiz”>
+    <img src="./img/DétailsQuizz.png" alt= “LogoWouiz”>
 </div>
 
 ## Pistes d'amélioration
