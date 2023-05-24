@@ -122,3 +122,4 @@ Et ainsi revoir vos différentes questions et réponses.
 - Intégrer un système de vérification (via un réseau de neurones ?) pour éviter la redondance des questions.
 - Améliorer le modèle pour le rendre plus robuste.
 - Intégrer un système de fine tuning personnalisable pour chaque utilisateur.
+- Intégrer la vision professeur sur le site web
