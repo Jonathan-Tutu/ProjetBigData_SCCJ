@@ -116,10 +116,13 @@ Et ainsi revoir vos différentes questions et réponses.
     <img src="./img/DetailsQuizz.png" alt= “”>
 </div>
 
+## Problème a résoudre : 
+- Intégrer le code permettant de générer des questions grâce à chatGPT sur l'application Django en résolvant les conflits.
+
 ## Pistes d'amélioration
 
 - Améliorer le modèle de génération des questions via l'utilisation de ChatGPT.
 - Intégrer un système de vérification (via un réseau de neurones ?) pour éviter la redondance des questions.
 - Améliorer le modèle pour le rendre plus robuste.
-- Intégrer un système de fine tuning personnalisable pour chaque utilisateur.
+- Intégrer un système de  tuning personnalisable pour chaque utilisateur.
 - Intégrer la vision professeur sur le site web
