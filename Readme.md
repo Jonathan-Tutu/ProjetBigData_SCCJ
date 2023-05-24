@@ -96,24 +96,24 @@ Notre projet consiste à créer une plateforme éducative pour aider les étudia
 
 Chaque utilisateur a la possibilité d'accéder à ses statistiques personnelles : 
 <div style="text-align:center;">
-    <img src="./img/Dashboard_User.png" alt= “LogoWouiz”>
+    <img src="./img/Dashboard_User.png" alt= “”>
 </div>
 
 Les utilisateurs peuvent également visualiser diverses informations générales concernant le site et les quizz réalisés par tous les utilisateurs.
 <div style="text-align:center;">
-    <img src="./img/DashboardDataviz.png" alt= “LogoWouiz”>
+    <img src="./img/DashboardDataviz.png" alt= “”>
 </div>
 
-- Historique des quizz  
+- Historique des quizz
 Il vous sera possible de visualisez les quizz que vous avez réalisés.
 
 <div style="text-align:center;">
-    <img src="./img/Quizz_passés.png" alt= “LogoWouiz”>
+    <img src="./img/Quizz_passés.png" alt= “”>
 </div>
 
 Et ainsi revoir vos différentes questions et réponses.
 <div style="text-align:center;">
-    <img src="./img/DétailsQuizz.png" alt= “LogoWouiz”>
+    <img src="./img/DetailsQuizz.png" alt= “”>
 </div>
 
 ## Pistes d'amélioration
