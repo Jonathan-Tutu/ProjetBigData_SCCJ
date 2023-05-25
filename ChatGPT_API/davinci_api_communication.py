@@ -6,7 +6,7 @@ from prompt import RightFalseQuestion, MultipleChoiceQuestion
 class OpenAI():
 
   def __init__(self):
-        openai.api_key = "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"
+        openai.api_key = ""
 
   def generate_questions(self, theme:str, difficulte:str, niveauScolaire:str, type:str) -> list:  
     model_engine = "text-davinci-003"
